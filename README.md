@@ -34,9 +34,11 @@ https://flutter.dev/docs/get-started/install/windows#set-up-the-android-emulator
 
 ## Faydalı İçerikler
 Flutter Nedir;
+
 https://www.youtube.com/watch?v=I9ceqw5Ny-4 & https://www.youtube.com/watch?v=fq4N0hgOWzU
 
 Flutter yapısını daha iyi anlamanız için;
+
 https://www.youtube.com/watch?v=O2YE9IYwCoc
 
 ###### Flutter Ekibinin dökümanları
