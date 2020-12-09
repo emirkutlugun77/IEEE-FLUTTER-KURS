@@ -1,2 +1,4 @@
 # IEEE-FLUTTER-KURS
-Kurs Dökümanlarını burdan paylaşıcam
+
+
+# HAFTA 1
