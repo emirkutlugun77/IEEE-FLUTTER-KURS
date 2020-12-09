@@ -32,10 +32,13 @@ Flutter yapısını daha iyi anlamanız için;
 https://www.youtube.com/watch?v=O2YE9IYwCoc
 
 ###### Flutter Ekibinin dökümanları
+
 Widget Kataloğu;
+
 https://flutter.dev/docs/development/ui/widgets
 
 Orijinal Dökümantasyon;
+
 https://flutter.dev/docs
 
 
@@ -45,7 +48,7 @@ https://flutter.dev/docs
 
 Konular;
 
-(Dersten Önce Bir Göz Atmanız Çok iyi Olur Ama Hepsinin Üstünden Geçicez
+(Dersten Önce Bir Göz Atmanız Çok iyi Olur Ama Hepsinin Üstünden Geçicez)
 
   İlk Flutter Uygulaması===>https://flutter.dev/docs/get-started/codelab,
   
