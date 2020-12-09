@@ -11,17 +11,22 @@ https://flutter.dev/docs/get-started/install
 
 Kurumları yapmak için Git yüklemeniz şart değil ama oldukça işinize yarar
 ###### IOS
+
 https://flutter.dev/docs/get-started/install/macos
 
 ###### WINDOWS
+
 https://flutter.dev/docs/get-started/install/windows
 
 ###### EDİTÖR
 Tercih Sizin Ama Eğitimde VS Code Kullanılacak 
+
 VS Code;
+
 https://flutter.dev/docs/get-started/editor?tab=vscode
 
 Andorid Studio;
+
 https://flutter.dev/docs/get-started/editor?tab=androidstudio
 
 ###### EMULATOR
