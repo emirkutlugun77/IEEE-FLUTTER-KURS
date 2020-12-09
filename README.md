@@ -17,8 +17,10 @@ https://flutter.dev/docs/get-started/install/windows
 Tercih Sizin Ama Eğitimde VS Code Kullanılacak 
 VS Code;
 https://flutter.dev/docs/get-started/editor?tab=vscode
+
 Andorid Studio;
 https://flutter.dev/docs/get-started/editor?tab=androidstudio
+
 ###### EMULATOR
 https://flutter.dev/docs/get-started/install/windows#set-up-the-android-emulator
 
@@ -40,12 +42,19 @@ https://flutter.dev/docs
 
 # HAFTA 1
 (Derste Yazılan Kodlar Bir Aksilik Olmazsa En Geç Bir Gün Sonra Buraya eklenir)
+
 Konular;
-  (Dersten Önce Bir Göz Atmanız Çok iyi Olur Ama Hepsinin Üstünden Geçicez
-  İlk Flutter Uygulaması,
+
+(Dersten Önce Bir Göz Atmanız Çok iyi Olur Ama Hepsinin Üstünden Geçicez
+
+  İlk Flutter Uygulaması===>https://flutter.dev/docs/get-started/codelab,
+  
   Stateless Widget===>https://api.flutter.dev/flutter/widgets/StatelessWidget-class.html
+
   Scaffold Widget'ı===>https://api.flutter.dev/flutter/material/Scaffold-class.html
+  
   Uygulamaya Asset(Resim,Yazı Fontu, Ses Dosyası vb) ekleme===>https://flutter.dev/docs/development/ui/assets-and-images
+
   Image Widget'ı===>https://api.flutter.dev/flutter/widgets/Image-class.html
   
 
