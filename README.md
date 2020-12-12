@@ -70,4 +70,6 @@ Konular;
 
   Image Widget'ı===>https://api.flutter.dev/flutter/widgets/Image-class.html
   
+  
+  İLK HAFTA İŞLENENLER https://github.com/emirkutlugun77/Flutter-Kurs-Hafta1
 
