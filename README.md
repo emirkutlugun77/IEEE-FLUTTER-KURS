@@ -72,4 +72,24 @@ Konular;
   
   
   İLK HAFTA İŞLENENLER https://github.com/emirkutlugun77/Flutter-Kurs-Hafta1
+  
+  
+# HAFTA 2
+
+
+Konular;
+
+(Dersten Önce Bir Göz Atmanız Çok iyi Olur Ama Hepsinin Üstünden Geçicez)
+
+  İlk bütün uygulama(Profil Ekranı), profil ekranı, kullanılacak Widgetlar;
+  
+  Layout Widgetları(Row,Column) Tekrarı,
+  
+  Card Widget===>https://api.flutter.dev/flutter/material/Card-class.html,
+ 
+  ListView Widget===>https://api.flutter.dev/flutter/widgets/ListView-class.html,
+  
+  CircleAvatar Widget===>https://api.flutter.dev/flutter/material/CircleAvatar-class.html,
+  
+  
 
