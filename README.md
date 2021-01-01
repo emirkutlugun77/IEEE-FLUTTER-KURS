@@ -91,5 +91,13 @@ Konular;
   
   CircleAvatar Widget===>https://api.flutter.dev/flutter/material/CircleAvatar-class.html,
   
+  HAFTA 2 ORNEK APP ==> https://github.com/londonappbrewery/MiCard-Completed,
+  
+ # HAFTA 3
+ 
+  Stateful Widget ile çalışmak;
+ 
+  Hafta3 App ==>  https://github.com/emirkutlugun77/diceApp,
+  
   
 
