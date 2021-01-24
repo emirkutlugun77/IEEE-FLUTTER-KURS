@@ -100,4 +100,22 @@ Konular;
   Hafta3 App ==>  https://github.com/emirkutlugun77/diceApp,
   
   
+ # HAFTA 4
+ GridView.builder widgetını kullanarak Snake Game yapımı ve Constructor methodları,Timer Class'ı,showDialog Fonksiypnu,
+ 
+ GridView Widget===> https://api.flutter.dev/flutter/widgets/GridView-class.html
+ 
+ Timer Class    ===> https://api.flutter.dev/flutter/dart-async/Timer-class.html
+ 
+ showDialog     ===> https://api.flutter.dev/flutter/material/showDialog.html
+ 
+ Snake Game     ===> https://github.com/emirkutlugun77/flutter_snake_game.git
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
 
