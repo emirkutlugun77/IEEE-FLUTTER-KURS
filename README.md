@@ -112,6 +112,12 @@ Konular;
  Snake Game     ===> https://github.com/emirkutlugun77/flutter_snake_game.git
  
  
+ # HAFTA 5
+ Expanded widgetı ile Responsive UI tasarlamak, birden fazla dart dosyası ile tek bir uygulama üzerinde çalışmak,
+ 
+ Ödev==> https://github.com/londonappbrewery/quizzler-flutter-challenge-starting.git
+ 
+ Ödevin tamamlanmış hali==> https://github.com/londonappbrewery/quizzler-flutter-challenge-final.git
  
  
  
