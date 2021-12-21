@@ -131,9 +131,7 @@ Görsel olarak istediğiniz herhangi bir görseli kullanabilirsiniz.
 
 ## Örnek Ekran Görüntüsü
 
-<p align="center">
-  <img src="https://ibb.co/2qNfyWg" width="350" title="hover text">
-</p>
+[![image](https://www.linkpicture.com/q/Ekran-Resmi-2021-12-21-19.46.27.png)](https://www.linkpicture.com/view.php?img=LPic61c205a58f6ae376357779)
 
 
 ## Kaynak Kod (Lütfen uygulamayı kendiniz yapmayı denedikten sonra bakın)
