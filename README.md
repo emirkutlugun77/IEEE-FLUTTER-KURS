@@ -51,3 +51,72 @@ Orijinal Dökümantasyon;
 
 https://flutter.dev/docs
 
+
+
+
+
+
+# HAFTA 1
+
+Mobil uygulamaların çalışma prensibinden ve yapısından bahsedildi.
+
+## İşlenen Konular
+
+### Stateful&Stateless Widget
+  
+  Flutter’da neredeyse her şey widget’tır ve widget dediğimiz kavram bize hazır olarak verilmiş bileşenlerdir. Her bir arayüz elemanı gibi birçok yapı birer widget olarak geçer. Flutter’ın widget özelliklerine ve örneklerine bakmak için widget kataloğunu inceleyebilirsiniz. Bu widgetları kullanarak kolay ve hızlı bir şekilde uygulamamızı geliştirebiliriz. Yeri geliyor, widget içinde widget kullanıyoruz. Bunun için widget yapısını kavramak önem taşıyor. Her bir yapının aslında birer widget olduğunu ve bu widgetların özelliklerini bilmeliyiz.
+
+İç içe yazacağımız widgetlar demişken, örnek verebiliriz. Bazı widgetlar, içine sadece bir widget kabul ederken; bazı widgetlar içine birden çok widget kabul edebiliyor. Bunu da şöyle düşünebiliriz. Flutter’da, Column diye bir widget vardır ki ilerleyen derslerde sayfa yapıları olarak bunu da ayrıntılı işleyeceğiz, birden çok widget alabilir. Çünkü Column widgetını, alt alta hizalanan bir liste gibi düşünebiliriz. Böylece aslında birden fazla eleman alabileceğini anlayabiliriz kolaylıkla. Fakat Container widgetını ise kutu gibi düşünüyoruz ve buna ise sadece bir eleman ekleyebiliyoruz.
+
+ 
+
+Temel widget yapılarıTemel widget yapıları
+ 
+State nedir?
+
+State, oluşturduğumuz uygulamanın durumu olarak tanımlanabilir. Ekranın anlık görüntüsüdür. Bir ekranın görüntüsünü yani State’i etkileyen birçok widget vardır. Örnek vermek gerekirse: yazılar, resimler yine en basit örnekleridir. State değiştiğinde, ekrandaki görüntü de değişir. O yüzden, kullandığımız widgetlara göre state seçimini doğru kulanmak önemlidir.
+
+Stateless ve Stateful Widget farkıStateless ve Stateful Widget farkı
+Stateful ve Stateless Widget farkı nedir?
+
+Uygulamamızı Stateful veya Stateless widget sınıflarıyla oluşturuyoruz. Bu sınıflar da birer widgettır. Fakat neye göre Stateless veya Stateful widget sınıfı oluşturuyoruz, bu biraz kafa karıştırabiliyor. Şimdi sırayla incelediğimizde aslında çok kolay olduğunu beraber görebiliriz.
+
+Öncelikle anlamlarına bakarak ip ucu yakalayabiliriz.
+
+Stateless = Durumsuz,   Stateful = Durumsal 
+
+Eğer, kullanacağımız ekranda değişen herhangi bir yapımız yoksa bunu Stateless widget kullanarak oluştururuz. Sabit yapılarla, durumsuz bir haldir. Yani değişen bir şey yoktur. Örnek olarak, koyacağımız bir başlık yazısı gibi değişmeyen widgetlarla, stateless widget kullanırız.
+
+Eğer, kullanacağımız ekranda widgetlarda değişiklik olacaksa bunu Stateful widget kullanarak oluştururuz. Değişken yapılarla, durumsal bir haldir yani belirli durumlara sahiptir. Örnek olarak, ekranda bir saat göstermek istersek veya sayaçlı bir sistem gibi sürekli değişen değerlerde, stateful widget kullanırız.
+
+### Scaffold Widget'ı
+  
+  Uygulamanın çalışması için gerekli en önemli "Widget" olduğunu gösterdik. Dökümantasyon aşağıda.
+  
+https://api.flutter.dev/flutter/material/Scaffold-class.html
+
+### App Bar Widget'ı
+  
+  Uygulamanın üstünde bulunan bar. Dökümantasyon aşağıda.
+  
+https://api.flutter.dev/flutter/material/AppBar-class.html
+
+### Row ve Column
+
+Row ve Column bizim sayfamızdaki ögeleri istediğimiz yerde konumlandırmak için kullandığımız temel widgetlardır.
+
+
+Row;
+https://api.flutter.dev/flutter/widgets/Row-class.html
+Column;
+https://api.flutter.dev/flutter/widgets/Column-class.html
+
+## ÖDEV 1
+
+MaterialApp ve Container widgetlarını incelemek.
+
+## ÖDEV 2
+
+Bu akşam yüklenecek, gruplandırma yapılacak
+
+  
