@@ -131,7 +131,9 @@ Görsel olarak istediğiniz herhangi bir görseli kullanabilirsiniz.
 
 ## Örnek Ekran Görüntüsü
 
-![alt text](https://ibb.co/2qNfyWg)
+<p align="center">
+  <img src="https://ibb.co/2qNfyWg" width="350" title="hover text">
+</p>
 
 
 ## Kaynak Kod (Lütfen uygulamayı kendiniz yapmayı denedikten sonra bakın)
