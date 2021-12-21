@@ -115,8 +115,27 @@ https://api.flutter.dev/flutter/widgets/Column-class.html
 
 MaterialApp ve Container widgetlarını incelemek.
 
-## ÖDEV 2
+## ÖDEV 2 I AM RICH UYGULAMASI
 
-Bu akşam yüklenecek, gruplandırma yapılacak
+Bu uygulama App Store ve Google Play Store'da yaklaşık 10 yıl önce yayınlandı, uygulama sadece ana ekranda bir elmas resminden oluşuyordu, ve satış fiyatı 799 dolardı, kısa bir süre sonra mağazalardan kaldırılan bu uygulamayı 8 kişi satın almıştı ve yaratıcı yaklaşık 5600 dolar kazandı, uygulamanın amacı ise insanlara ne kadar zengin olduğunuzu göstermekti, sizden de beklentim bu uygulamanın aynısını yapmamız. Bu uygulamayı yapmak için biraz araştırma yapmanızı istiyorum gerekli dökümantasyonları aşağıda paylaşıyorum, uygulamayı yaptıktan sonra uygulamanın bir ekran görüntüsünü emirkutlugun01@gmail.com adresine göndermenizi istiyorum.
+
+### Uygulamamıza resim eklemek için;
+
+https://docs.flutter.dev/development/ui/assets-and-images
+
+### Pubspec.yaml dosyası hakkında daha fazla bilgi için;
+
+https://dart.dev/tools/pub/pubspec
+
+Görsel olarak istediğiniz herhangi bir görseli kullanabilirsiniz.
+
+## Örnek Ekran Görüntüsü
+
+![alt text](https://ibb.co/2qNfyWg)
+
+
+## Kaynak Kod (Lütfen uygulamayı kendiniz yapmayı denedikten sonra bakın)
+
+https://github.com/kreativecoder/i_am_rich
 
   
